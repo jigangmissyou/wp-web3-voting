@@ -30,7 +30,7 @@ Follow these steps to install and activate the plugin:
 
 ---
 
-## Screenshot
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/28184b43-0592-4037-b115-47c9525e4e6a)
 
