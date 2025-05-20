@@ -34,6 +34,9 @@ Follow these steps to install and activate the plugin:
 
 ![image](https://github.com/user-attachments/assets/28184b43-0592-4037-b115-47c9525e4e6a)
 
+![image](https://github.com/user-attachments/assets/fe431480-14d5-4eb0-b6b7-0b53092d14d2)
+
+
 
 ## License
 
