@@ -30,6 +30,11 @@ Follow these steps to install and activate the plugin:
 
 ---
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/28184b43-0592-4037-b115-47c9525e4e6a)
+
+
 ## License
 
 This plugin is licensed under the GPL-2.0-or-later license.  
